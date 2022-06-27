@@ -78,7 +78,7 @@ _Sub AllStocksAnalysisRefactored()
        
        tickerVolumes(i) = 0
        
-       Next i
+     _  Next i_
         
     ''2b) Loop over all the rows in the spreadsheet.
     For i = 2 To RowCount
@@ -167,7 +167,22 @@ End Sub
 
 After running the code, there is vast difference between 2017 stock performance and 2018 stock performance. Only 2 stocks ENPH  and RUN produced a positive yearly returns in both years. 
 
+<img width="286" alt="VBA _Challenge_2017" src="https://user-images.githubusercontent.com/107137215/176011841-dc4d98a1-01b4-402c-87fe-10ce810550eb.png">
 
- ![](VBA _Challenge_2017.png)
- 
- ![](VBA_Challenge_2018.png)
+<img width="237" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/107137215/176011972-5d727cd3-55fd-4d90-b125-e6152cd42368.png">
+
+Now Steve can take a look at both analysis before advising his parents about the investment decision.
+
+## excecution time
+
+Improving code efficiency and excution time was successful. Excecution time for 2017 was improved from 0.9921875 seconds to 0.2109375 seconds  and from 0.265625 seconds to 0.1914063 seconds for year 2018. That's was the improvement of 64.93%.
+
+<img width="621" alt="VBA_Challenge_2017 Excecution_time(1)" src="https://user-images.githubusercontent.com/107137215/176014811-1a6cf9fc-4592-42c3-90be-18ab44cff8b0.png">
+
+<img width="395" alt="VBA_Challenge_2017 Excecution_time(2)" src="https://user-images.githubusercontent.com/107137215/176014866-c5d381ef-0bb7-4c61-96a3-b249696468b4.png">
+
+<img width="320" alt="VBA_Challenge_2018 Excecution_time(2)" src="https://user-images.githubusercontent.com/107137215/176014961-7679bb15-a365-48c2-8021-103448f5cf75.png">
+
+<img width="344" alt="VBA_Challenge_2018 Excecution_time(1)" src="https://user-images.githubusercontent.com/107137215/176014999-e44bb95d-f21e-463b-9ca1-2569dedc1bd4.png">
+
+
