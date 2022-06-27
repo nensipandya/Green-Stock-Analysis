@@ -165,7 +165,7 @@ End Sub
 
 ## 2017 vs 2018 Stock Performance
 
-After running the code, there is vast difference between 2017 stock performance and 2018 stock performance. Only 2 stocks ENPH  and RUN produced a positi e yearly returns in both years. 
+After running the code, there is vast difference between 2017 stock performance and 2018 stock performance. Only 2 stocks ENPH  and RUN produced a positive yearly returns in both years. 
 
 
- 
+ ![] (VBA _Challenge_2017.png)
