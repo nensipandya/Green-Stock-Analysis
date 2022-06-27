@@ -168,4 +168,6 @@ End Sub
 After running the code, there is vast difference between 2017 stock performance and 2018 stock performance. Only 2 stocks ENPH  and RUN produced a positive yearly returns in both years. 
 
 
- ![] (VBA _Challenge_2017.png)
+ ![](VBA _Challenge_2017.png)
+ 
+ ![](VBA_Challenge_2018.png)
