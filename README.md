@@ -186,3 +186,11 @@ Improving code efficiency and excution time was successful. Excecution time for 
 <img width="344" alt="VBA_Challenge_2018 Excecution_time(1)" src="https://user-images.githubusercontent.com/107137215/176014999-e44bb95d-f21e-463b-9ca1-2569dedc1bd4.png">
 
 
+## Summry
+
+The main advantage of refractor code is to run code more efficient way and get the results faster , if you put it in right way.  By looking ata the execution time reduction can be very beneficial in order to run a thousands of row data.
+
+But every coin has two face. There is a huge risk with this refactoring code is the if there is a minor mistake than it may destroy your whole work and may destroy your code code as well. So in my point of view, it is highly recommeneded to save your original code , if there is any issue with the refactor code , you can still run your code . You can always go back without writing your whole code back again, which is very time consuming.
+
+
+
